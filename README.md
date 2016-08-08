@@ -1,3 +1,3 @@
-# oac-news
+# oac-news.com
 My first time ever project
-+ This project was made by me in school.
++ This web site was made by me in school.
